@@ -222,5 +222,18 @@
     .brandname {
         margin-left:10px ;
     } 
+    .carousel-item img {
+        width: 100%;
+        height: 230px;
+    }
+    .whyus img {
+        text-align: center;
+        width: 100%;
+        height: 200px;
+    }
+    .experience img {
+        width: 100%;
+        height: 200px;
+    }
 }
 
