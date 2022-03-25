@@ -1,0 +1,226 @@
+/* .container {
+    border: 1px solid black;
+    background-color: blue;
+}
+.container-fluid {
+    border: 1px solid blueviolet;
+    background-color: blueviolet;
+}
+.one {
+    background-color: brown;
+}
+.two{
+    background-color: chartreuse;
+} */
+.logo img {
+    margin-left:20px;
+    width: 40px;
+    border-radius: 25px;
+}
+.authority a{
+    justify-content: center;
+}
+.brandname {
+    font-size: 20px;
+    margin-left: 20px;
+    font-family:serif;
+}
+.authority2 {
+    margin-top: 50px;
+}
+.captionhere {
+    background-color:whitesmoke;
+    color:blue;
+    opacity:0.5;
+}
+.about {
+    background-color: aliceblue;
+    margin-top: 50px;
+}
+.about h2{
+    color: goldenrod;
+    text-align: center;
+}
+.about p {
+    text-align: center;
+    margin-top: 20px;
+    font-weight:bold;
+    font-style: oblique;
+}
+.about a {
+    text-decoration: none;
+}
+.service {
+    margin-top: 50px;
+}
+.service h2, p {
+    text-align: center;
+    justify-content:center;
+    height: fit-content;
+    text-align: center;
+}
+.service i {
+    color: goldenrod;
+    font-size: 100px;
+    margin-top: 20px;
+}
+.service1 {
+    color:black;
+    width: 100%;
+    align-items:center;
+    justify-content:center;
+    height: fit-content;
+    text-align: center;
+    border: 1px solid black;
+    border-radius:30px;
+}
+.service2 {
+    color:black;
+    width: 100%;
+    align-items:center;
+    justify-content:center;
+    height: fit-content;
+    text-align: center;
+    border: 1px solid black;
+    border-radius:30px;
+}
+.service3 {
+    color:black;
+    width: 100%;
+    align-items:center;
+    justify-content:center;
+    height: fit-content;
+    text-align: center;
+    border: 1px solid black;
+    border-radius:30px;
+}
+.service4 {
+    color:black;
+    width: 100%;
+    align-items:center;
+    justify-content:center;
+    height: fit-content;
+    text-align: center;
+    border: 1px solid black;
+    border-radius:30px;
+}
+.service .service1:hover {
+    background-color: blue;
+    color:white;
+}
+.service .service2:hover {
+    background-color: blue;
+    color:white;
+}
+.service .service3:hover {
+    background-color: blue;
+    color:white;
+}
+.service .service4:hover {
+    background-color: blue;
+    color:white;
+}
+.whyus {
+    margin-left: 20px;
+}
+
+.why {
+    margin-top: 60px;
+}
+.offer {
+    margin-top: 80px;
+}
+.industry {
+    margin-top: 60px;
+}
+.industry img {
+    width: 100%;
+    height: 300px;
+}
+.industry2 {
+    margin-top: 50px;
+}
+.industry2 h4 {
+    text-align: center;
+    color: goldenrod;
+}
+.myfooter {
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+.myfooter img {
+    border-radius: 50px;
+    width: 100px;}
+.myfooter p {
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+}
+.myfooter2 p {
+    font-size: 15px;
+    color: white;
+}
+.myfooter2 a {
+    color: white;
+}
+.myfooter3 p {
+    font-size: 15px;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.copyright {
+    background-color: black;
+    color: white;
+    height: 35px;
+}
+.copyright2 {
+    text-align: center;
+}
+.aboutcaption h2 {
+    color: goldenrod;
+
+}
+.aboutus {
+    margin-top: 70px;
+}
+.aboutus .aboutimage img {
+    width: 100%;
+    border-radius: 80%;
+    border-style:ridge;
+}
+.experience {
+    background-color: goldenrod;
+    color: black;
+}
+.experience .code {
+    margin-top: 30px;
+    margin-bottom: 60px;
+    text-align: center;
+    margin-left: 70px;
+
+}
+.experience .code i {
+    font-size: 100px;   
+}
+.experience2 {
+    margin-top: 200px;
+}
+.experience2 img {
+    width: 100%;
+    height: 300px;
+}
+
+@media (max-width:858px) {
+    .logo img {
+        margin-left: 20px;
+        width:40px;
+    }   
+    .brandname {
+        margin-left:10px ;
+    } 
+}
+
